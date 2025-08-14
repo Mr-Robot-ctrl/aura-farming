@@ -11,7 +11,6 @@ Just run it, sit back, and enjoy the retro vibes.
 
 ## 📦 Dependencies
 This project requires:
-- **Python 3.8+**
 - **opencv-python** – For video processing.
 - **pygame** – For audio playback.
 
