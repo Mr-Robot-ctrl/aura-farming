@@ -9,6 +9,12 @@ Just run it, sit back, and enjoy the retro vibes.
 
 ---
 
-## 📦 Requirements
-- Python **3.8+**
+## 📦 Dependencies
+This project requires:
+- **Python 3.8+**
+- **opencv-python** – For video processing.
+- **pygame** – For audio playback.
 
+To install dependencies:
+```bash
+pip install opencv-python pygame
